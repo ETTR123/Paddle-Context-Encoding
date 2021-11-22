@@ -1,4 +1,4 @@
-# Paddle-Context-Prior
+# Paddle-Context-Encoding
 
 
-基于PaddlePaddle 2.1.0 复现 CVPR2020：Context Prior for Scene Segmentation
+基于PaddlePaddle  复现 CVPR2018：Context Encoding for Semantic Segmentation
